@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-17 06:34:02,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-07-17 18:38:34,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -200,8 +200,8 @@ CETV2,rtsp://115.153.212.72/PLTV/88888888/224/3221226978/85722625.smil
 CETV2,rtsp://115.153.233.154/PLTV/88888888/224/3221226978/85722625.smil
 CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
-CETV4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+CETV4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 CETV4,rtsp://116.176.26.18/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 CETV4,rtsp://180.95.143.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 CETV4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
@@ -264,6 +264,7 @@ CETV4,rtsp://221.7.61.147/PLTV/88888910/224/3221225594/1000010000000006000000000
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
+香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
@@ -633,6 +634,7 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 音乐之声,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
 音乐之声,http://live.xmcdn.com/live/1205/64.m3u8
+潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
 笑傲江湖,http://lu.wqwqwq.sbs/yy/1354930909
@@ -661,7 +663,6 @@ CCTV-15,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 三国演义,http://live.iill.top/yy.php?id=1354936241
 三国演义,http://live.metshop.top/huya/11602081
 三国演义,https://lunbo.freetv.top/yy/1354930932
-三国演义,http://lunbo.freetv.top/yy/1354930932
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 水浒传,https://lunbo.freetv.top/yy/1353215589
 新白娘子传奇,http://lu.wqwqwq.sbs/yy/1354490667
